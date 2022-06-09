@@ -4,7 +4,7 @@
   [![Stars](https://img.shields.io/github/stars/DeclanChidlow/MostDefinitelyViruses?style=flat-square&logoColor=white)](https://github.com/DeclanChidlow/MostDefinitelyViruses/stargazers)
   [![Forks](https://img.shields.io/github/forks/DeclanChidlow/MostDefinitelyViruses?style=flat-square&logoColor=white)](https://github.com/DeclanChidlow/MostDefinitelyViruses/network/members)
   [![Pull Requests](https://img.shields.io/github/issues-pr/DeclanChidlow/MostDefinitelyViruses?style=flat-square&logoColor=white)](https://github.com/DeclanChidlow/MostDefinitelyViruses/pulls)
-  [![Issues](https://img.shields.io/github/issues/DeclanChidlow/MostDefinitelyViruses?style=flat-square&logoColor=white)]((https://github.com/DeclanChidlow/MostDefinitelyViruses/issues))
+  [![Issues](https://img.shields.io/github/issues/DeclanChidlow/MostDefinitelyViruses?style=flat-square&logoColor=white)](https://github.com/DeclanChidlow/MostDefinitelyViruses/issues)
   [![Contributors](https://img.shields.io/github/contributors/DeclanChidlow/MostDefinitelyViruses?style=flat-square&logoColor=white)](https://github.com/DeclanChidlow/MostDefinitelyViruses/graphs/contributors)
   [![Licence](https://img.shields.io/github/license/DeclanChidlow/MostDefinitelyViruses?style=flat-square&logoColor=white)](https://github.com/DeclanChidlow/MostDefinitelyViruses/blob/main/LICENCE)
 </h1>
