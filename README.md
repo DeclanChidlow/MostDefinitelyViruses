@@ -14,3 +14,5 @@ A collection of prank-ware to tease your friends with. Please save any open work
 **These will only work on Windows.**
 
 All files commented and the code explained for the benefit of learning and understanding.
+
+![LGPLv3 Badge](/README_RESOURCES/LGPLv3%20Logo.svg)
